@@ -64,8 +64,9 @@ In the Data Preprocessing, we have learned how to handle the raw data. When we c
         8.	Selecting Data using Label Based (iloc function)
         9.	Group by in Pandas
 
+3. [**Data Manipulation and Analysis using PANDAS**](https://github.com/ammarmohsin/Data-Science-using-Python/blob/adc86304e846ffd5375e1bfec43f199b2d984798/3-Data%20Manipulation%20and%20Analysis.ipynb)
 
-3. **Data Visualization**
+4. **Data Visualization**
     1.	Line Plots
     2.	Bar Plots
     3.	Box Plots
@@ -73,11 +74,11 @@ In the Data Preprocessing, we have learned how to handle the raw data. When we c
     5.	Exercise
     6.	Plotly
 
-4. **Exploratory Data Analysis (EDA)**
+5. **Exploratory Data Analysis (EDA)**
     1.	Cleaning and Filtering Data
     2.	Relationship (Correlation)
 
-5.	**Data Wrangling in Python**
+6.	**Data Wrangling in Python**
     1.	Dealing with missing values
         1.	Continuous Variables
         2.	Categorical Variables
@@ -91,7 +92,7 @@ In the Data Preprocessing, we have learned how to handle the raw data. When we c
     4.	Binning
     5.	Convert Categories into Dummies
 
-6.	**Case Study in FAO Dataset**
+7.	**Case Study in FAO Dataset**
     1.	Data Handling
     2.	Data Filtration
     3.	Data Visualization
