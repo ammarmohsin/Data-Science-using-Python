@@ -51,7 +51,7 @@ In the Data Preprocessing, we have learned how to handle the raw data. When we c
     7.	Reshaping and Flattening Multidimensional Arrays
 
 
-2. **Pandas in Python for Data Science**
+2. [**Pandas in Python for Data Science**](https://github.com/ammarmohsin/Data-Science-using-Python/blob/main/2-Pandas.ipynb)
     1.	Basic Functions of Pandas in Python
     2.	Pandas Library Functions on FAO Data Set
         1.	Set Index
