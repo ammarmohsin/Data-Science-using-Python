@@ -24,7 +24,7 @@ In the Data Visualization, we have covered important graphical visualization of 
 
 In the Data Preprocessing, we have learned how to handle the raw data. When we collect the raw data, it requires to perform Exploratory Data Analysis (EDA) i.e., initial investigation to discover its patterns, empty values, spot anomalies, test hypothesis, and check assumptions with the help of summary of statistics and graphical representations. After EDA, we have also explored and discussed Data wrangling, which involves processing the data in various formats and analyzing it and getting them to be used with another set of data, and bringing them together into valuable insights. It further includes data aggregation, data visualization, and training statistical models for prediction. Data wrangling is one of the most important steps of the data science process. The quality of data analysis is only as good as the quality of data itself, so it is very important to maintain data quality.
 
-1. **NumPy in Python for Data Science**
+1. [**NumPy in Python for Data Science**](https://github.com/ammarmohsin/Data-Science-using-Python/blob/main/1-Numpy.ipynb) 
     1.	Arrays & Its Types
         1.	1-D Arrays
         2.	2-D Arrays
