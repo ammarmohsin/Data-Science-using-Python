@@ -67,7 +67,7 @@ In the Data Preprocessing, we have learned how to handle the raw data. When we c
 
 3. [**Data Manipulation and Analysis using PANDAS**](https://github.com/ammarmohsin/Data-Science-using-Python/blob/adc86304e846ffd5375e1bfec43f199b2d984798/3-Data%20Manipulation%20and%20Analysis.ipynb)
 
-4. **Data Visualization**
+4. [**Data Visualization**](https://github.com/ammarmohsin/Data-Science-using-Python/blob/7620286a7104d95b07422c3290ba904594a343bd/5-Data%20Visualization.ipynb)
     1.	Line Plots
     2.	Bar Plots
     3.	Box Plots
