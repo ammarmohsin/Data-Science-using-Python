@@ -75,7 +75,7 @@ In the Data Preprocessing, we have learned how to handle the raw data. When we c
     5.	Exercise
     6.	Plotly
 
-5. **Exploratory Data Analysis (EDA)**
+5. **Exploratory Data Analysis (EDA)** Done
     1.	Cleaning and Filtering Data
     2.	Relationship (Correlation)
 
