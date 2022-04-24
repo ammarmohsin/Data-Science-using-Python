@@ -79,7 +79,7 @@ In the Data Preprocessing, we have learned how to handle the raw data. When we c
     1.	Cleaning and Filtering Data
     2.	Relationship (Correlation)
 
-6.	**Data Wrangling in Python**
+6.	**Data Wrangling in Python** Done
     1.	Dealing with missing values
         1.	Continuous Variables
         2.	Categorical Variables
