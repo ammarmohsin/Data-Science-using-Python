@@ -75,11 +75,11 @@ In the Data Preprocessing, we have learned how to handle the raw data. When we c
     5.	Exercise
     6.	Plotly
 
-5. **Exploratory Data Analysis (EDA)** Done
+5. **Exploratory Data Analysis (EDA)**
     1.	Cleaning and Filtering Data
     2.	Relationship (Correlation)
 
-6.	**Data Wrangling in Python** Done
+6.	**Data Wrangling in Python**
     1.	Dealing with missing values
         1.	Continuous Variables
         2.	Categorical Variables
